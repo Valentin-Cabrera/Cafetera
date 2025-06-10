@@ -6,7 +6,10 @@ Diseño del control de cafetera comercial.
 
 ## Esquematico del variador de frecuencia (Circuito de potencia).
 
-<img width="431" alt="Captura de pantalla 2025-06-10 a la(s) 2 38 50 p  m" src="https://github.com/user-attachments/assets/eb5e8e41-85c9-49eb-96bf-440ddc50e85b" />
+<img width="1150" alt="Captura de pantalla 2025-06-10 a la(s) 2 47 05 p  m" src="https://github.com/user-attachments/assets/4dd6f798-ccf5-4ffb-81b4-8a6499f17dc4" />
+
+
+
 
 
 
