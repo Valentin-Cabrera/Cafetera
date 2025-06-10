@@ -20,6 +20,8 @@ Para la parte lógica, utilizaré un Arduino Nano, 4 relés (3 para válvulas y 
 ## Esquemático del variador de frecuencia (circuito de potencia)
 
 <img width="1150" alt="Captura de pantalla 2025-06-10 a la(s) 2 47 05 p  m" src="https://github.com/user-attachments/assets/4dd6f798-ccf5-4ffb-81b4-8a6499f17dc4" />
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/baea5a3f-5690-4c23-ab44-fa21e7106113" />
+
 
 ### Lista de componentes:
 - IRFP460PBF
