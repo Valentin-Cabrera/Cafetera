@@ -8,6 +8,8 @@ El paso de agua esta controlado por una serie de valvulas solenoides, que funcio
 Dada las características deseadas voy a dividir el diseño del controlador en dos partes:
 - Potencia
 - Logica
+
+  
 Para la parte de potencia implementare un variador de fecuencia con MOSFETs en un puente H.
 En particular seran necesarios 2 nmos y 2 pmos junto con dos octocopladores que garanticen un aislasion galvanica entre ambos modulos.
 Mientras que la logica utilisare un arduino nano, 4 reles (3 valvulas y 1 para la resistencia del boiler), sensor de presion para monitorear la presion a la salida de la bomba,termistor, ads1115 para realizar las medisiones de sensores. 
