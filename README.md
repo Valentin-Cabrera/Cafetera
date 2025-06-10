@@ -13,12 +13,14 @@ Dadas las características deseadas, voy a dividir el diseño del controlador en
 
 - Potencia
 - Lógica
+
 Para la parte de potencia, implementaré un variador de frecuencia con MOSFETs en un puente H. En particular, se utilizarán 2 NMOS y 2 PMOS junto con dos optoacopladores que garanticen aislamiento galvánico entre ambos módulos.
 
 Para la parte lógica, utilizaré un Arduino Nano, 4 relés (3 para válvulas y 1 para la resistencia del boiler), un sensor de presión para monitorear la salida de la bomba, un termistor y un ADS1115 para realizar las mediciones de los sensores. 
 ## Esquemático del variador de frecuencia (circuito de potencia)
 
 <img width="1150" alt="Captura de pantalla 2025-06-10 a la(s) 2 47 05 p  m" src="https://github.com/user-attachments/assets/4dd6f798-ccf5-4ffb-81b4-8a6499f17dc4" />
+
 ### Lista de componentes:
 - IRFP460PBF
 - IXTH10P50P
