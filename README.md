@@ -28,6 +28,8 @@ Para la parte lógica, utilizaré un Arduino Nano, 4 relés (3 para válvulas y 
 - IRFP460PBF
 - IXTH10P50P
 - 4N35
+- GBJ2510-BP
+  
 Falta dimensionar los valores de las resistencias para la correcta carga y descarga de los gates de los MOSFETs, además del cálculo de la capacidad para mantener un ripple pequeño.
 ## Simulación con componentes similares.
 <img width="431" alt="Captura de pantalla 2025-06-10 a la(s) 2 38 50 p  m" src="https://github.com/user-attachments/assets/546509e4-b49f-4d4b-aa0c-d1083a756ff7" />
